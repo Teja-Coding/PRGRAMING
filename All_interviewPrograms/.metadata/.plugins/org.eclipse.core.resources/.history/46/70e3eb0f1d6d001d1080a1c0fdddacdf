@@ -1,0 +1,24 @@
+package Pratice;
+
+import java.util.Scanner;
+
+public class programe {
+	public static void main(String[] args) {
+		int num=555;
+		
+		int temp=num;
+		int ld=0;
+		int sum=0;
+		while(num!=0) {
+			ld=num%10;
+			sum=sum*10+ld;
+			num=num/10;
+		}
+		if(temp==sum) {
+			System.out.println("is pal");
+		}
+		else {
+			System.out.println("not a pal");
+		}
+	}
+}

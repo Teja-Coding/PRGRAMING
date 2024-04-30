@@ -1,0 +1,20 @@
+package ArrayInterview;
+//how to print even and odd from given array
+public class EvenOddArray {
+	public static void main(String[] args) {
+		int a[]= {1,4,6,4,7,4,5};
+		
+		for(int i=0;i<=a.length;i++) {
+			System.out.println("even numbers in arrays...");
+			if(a[i]%2==0) {
+				System.out.println(a[i]);
+			}
+		}
+		System.out.println("odd number in arrays...");
+		for(int j=0;j<=a.length;j++) {
+			if(a[j]%2!=0) {
+				System.out.println(a[j]);
+			}
+		}
+	}
+}

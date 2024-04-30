@@ -1,0 +1,25 @@
+package Pratice;
+
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class programe {
+	public static void main(String[] args) {
+		int []arr1= {1,3,6,6,8,4,3};
+		System.out.println("even num");
+		
+		for(int i=0;i<arr1.length;i++) {
+			if(arr1[i]%2==0) {
+				System.out.println(arr1[i]);
+			}
+			
+		}
+		System.out.println("odd num");
+		for(int i=0;i<arr1.length;i++) {
+			if(arr1[i]%2!=0) {
+				System.out.println(arr1[i]);
+			}
+		}
+		
+	}
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:context="http://www.springframework.org/schema/context"
+        xsi:schemaLocation="http://www.springframework.org/schema/beans
+            http://www.springframework.org/schema/beans/spring-beans.xsd
+            http://www.springframework.org/schema/context
+            http://www.springframework.org/schema/context/spring-context.xsd">
+   
+   <bean id="emp" class="org.jsp.app.Employee" scope="singleton">
+   <constructor-arg value="1002"></constructor-arg>
+   <constructor-arg value="manikanta"></constructor-arg>
+   </bean>
+   
+   <bean id="emp2" class="org.jsp.app.Employee">
+   <constructor-arg value="1003"></constructor-arg>
+   <constructor-arg value="yuva"></constructor-arg>
+   <constructor-arg value="50000"></constructor-arg>
+   
+   </bean>
+   
+   <bean id="emp3" class="org.jsp.app.Employee">
+   <constructor-arg index="1" value="teja"></constructor-arg>
+   <constructor-arg index="2" value="40000"></constructor-arg>
+   <constructor-arg index="0" value="2001"></constructor-arg>
+   
+   </bean>
+   
+   <bean id="college1" class="org.jsp.app.College">
+   <constructor-arg value="clg12345"></constructor-arg>
+   <constructor-arg value="jntu"></constructor-arg>
+    </bean>
+    <bean id="stud1" class="org.jsp.app.Student">
+    <constructor-arg value="101"></constructor-arg>
+    <constructor-arg value="manikanta"></constructor-arg>
+    <constructor-arg ref="college1"></constructor-arg>
+    </bean>
+    
+    <bean id="student2" class="org.jsp.app.Student">
+    <constructor-arg value="102"></constructor-arg>
+    <constructor-arg value="yuvateja"></constructor-arg>
+    <constructor-arg ref="college1"></constructor-arg>
+    <constructor-arg>
+    <list>
+    <value>JAVA</value>
+    <value>web technology</value>
+    </list>
+    </constructor-arg>
+    
+    </bean>
+   
+
+</beans>

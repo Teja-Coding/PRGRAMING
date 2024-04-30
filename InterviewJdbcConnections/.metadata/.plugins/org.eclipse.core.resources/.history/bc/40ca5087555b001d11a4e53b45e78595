@@ -1,0 +1,23 @@
+package EstablishConnection;
+
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+import com.mysql.jdbc.Connection;
+import com.mysql.jdbc.Statement;
+
+public class EstablishConnection {
+	public static void main(String[] args) {
+		try {
+			/*establish connection b/w java application and database application*/
+			Connection connection=(Connection) DriverManager.getConnection("jdbc:mysql://localhost:3306/company","root","12345");
+			System.out.println("connection establised");
+			/*Create a platform*/
+			java.sql.Statement stmt =connection.clientPrepareStatement("update company.userinfo upwd=54321 where umobile=9494013905");
+			System.out.println("query carry");
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+}

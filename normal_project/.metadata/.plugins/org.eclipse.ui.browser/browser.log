@@ -1,0 +1,103 @@
+
+Oct 23, 2022 22:04:00.387 NEW SESSION
+Oct 23, 2022 22:04:00.388 [17080:8396:1023/220400.383:ERROR:device_event_log_impl.cc(214)] [22:04:00.375] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 23, 2022 22:04:00.390 [17080:8396:1023/220400.387:ERROR:device_event_log_impl.cc(214)] [22:04:00.387] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 23, 2022 22:04:00.395 [17080:8396:1023/220400.394:ERROR:device_event_log_impl.cc(214)] [22:04:00.394] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 23, 2022 22:04:27.664 [21824:2308:1023/220427.663:ERROR:device_event_log_impl.cc(214)] [22:04:27.662] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 23, 2022 22:04:27.667 [21824:2308:1023/220427.664:ERROR:device_event_log_impl.cc(214)] [22:04:27.663] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 23, 2022 22:04:27.674 [21824:2308:1023/220427.672:ERROR:device_event_log_impl.cc(214)] [22:04:27.672] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 23, 2022 22:04:55.215 [20580:25148:1023/220455.214:ERROR:device_event_log_impl.cc(214)] [22:04:55.214] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 23, 2022 22:04:55.217 [20580:25148:1023/220455.215:ERROR:device_event_log_impl.cc(214)] [22:04:55.215] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 23, 2022 22:04:55.225 [20580:25148:1023/220455.223:ERROR:device_event_log_impl.cc(214)] [22:04:55.223] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 23, 2022 22:05:05.487 [20580:23472:1023/220505.487:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 23, 2022 22:06:09.252 [17896:3672:1023/220609.250:ERROR:device_event_log_impl.cc(214)] [22:06:09.250] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 23, 2022 22:06:09.254 [17896:3672:1023/220609.251:ERROR:device_event_log_impl.cc(214)] [22:06:09.251] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 23, 2022 22:06:09.263 [17896:3672:1023/220609.260:ERROR:device_event_log_impl.cc(214)] [22:06:09.260] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 23, 2022 22:07:24.797 [25452:1600:1023/220724.795:ERROR:device_event_log_impl.cc(214)] [22:07:24.794] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 23, 2022 22:07:24.800 [25452:1600:1023/220724.797:ERROR:device_event_log_impl.cc(214)] [22:07:24.796] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 23, 2022 22:07:24.807 [25452:1600:1023/220724.806:ERROR:device_event_log_impl.cc(214)] [22:07:24.805] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 23, 2022 22:08:22.480 [25452:3516:1023/220822.480:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 23, 2022 22:24:31.249 [13456:24252:1023/222431.249:ERROR:device_event_log_impl.cc(214)] [22:24:31.257] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 23, 2022 22:24:31.249 [13456:24252:1023/222431.249:ERROR:device_event_log_impl.cc(214)] [22:24:31.258] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 23, 2022 22:24:31.264 [13456:24252:1023/222431.264:ERROR:device_event_log_impl.cc(214)] [22:24:31.266] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 23, 2022 22:25:24.620 [13456:21640:1023/222524.619:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Oct 26, 2022 11:15:53.486 NEW SESSION
+Oct 26, 2022 11:15:53.486 [3964:9044:1026/111553.483:ERROR:device_event_log_impl.cc(214)] [11:15:53.483] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 26, 2022 11:15:53.487 [3964:9044:1026/111553.484:ERROR:device_event_log_impl.cc(214)] [11:15:53.484] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 26, 2022 11:15:53.493 [3964:9044:1026/111553.492:ERROR:device_event_log_impl.cc(214)] [11:15:53.492] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 26, 2022 11:16:50.825 [3964:19096:1026/111650.825:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 26, 2022 12:36:19.881 [3964:16120:1026/123619.880:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 12:36:43.964 [3964:16120:1026/123643.963:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 12:37:40.889 [3964:16120:1026/123740.888:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 12:39:23.19 [3964:16120:1026/123923.018:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 12:42:54.708 [3964:16120:1026/124254.708:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 12:50:46.711 [3964:16120:1026/125046.710:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 26, 2022 14:16:15.89 [3964:16120:1026/141615.088:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+
+Oct 31, 2022 21:01:24.827 NEW SESSION
+Oct 31, 2022 21:01:24.827 [22428:44972:1031/210124.817:ERROR:device_event_log_impl.cc(214)] [21:01:24.817] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 31, 2022 21:01:24.830 [22428:44972:1031/210124.820:ERROR:device_event_log_impl.cc(214)] [21:01:24.821] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 31, 2022 21:01:24.834 [22428:44972:1031/210124.831:ERROR:device_event_log_impl.cc(214)] [21:01:24.832] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Oct 31, 2022 21:02:22.144 [22428:45384:1031/210222.143:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 31, 2022 22:16:48.188 [22428:44972:1031/221648.184:ERROR:interface_endpoint_client.cc(689)] Message 0 rejected by interface blink.mojom.WidgetHost
+Oct 31, 2022 22:48:01.354 [22428:44972:1031/224801.354:ERROR:interface_endpoint_client.cc(689)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Nov 10, 2022 22:32:45.822 NEW SESSION
+Nov 10, 2022 22:32:45.822 [61588:61648:1110/223245.819:ERROR:device_event_log_impl.cc(215)] [22:32:45.819] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 10, 2022 22:32:45.823 [61588:61648:1110/223245.822:ERROR:device_event_log_impl.cc(215)] [22:32:45.821] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 10, 2022 22:32:45.831 [61588:61648:1110/223245.831:ERROR:device_event_log_impl.cc(215)] [22:32:45.830] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Nov 11, 2022 10:27:24.931 NEW SESSION
+Nov 11, 2022 10:27:24.931 [58792:26316:1111/102724.785:ERROR:device_event_log_impl.cc(215)] [10:27:24.785] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 11, 2022 10:27:24.962 [58792:26316:1111/102724.786:ERROR:device_event_log_impl.cc(215)] [10:27:24.786] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 11, 2022 10:27:24.962 [58792:26316:1111/102724.793:ERROR:device_event_log_impl.cc(215)] [10:27:24.793] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 11, 2022 13:56:22.649 [4156:64504:1111/135622.647:ERROR:device_event_log_impl.cc(215)] [13:56:22.647] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 11, 2022 13:56:22.655 [4156:64504:1111/135622.654:ERROR:device_event_log_impl.cc(215)] [13:56:22.654] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 11, 2022 13:56:22.663 [4156:64504:1111/135622.662:ERROR:device_event_log_impl.cc(215)] [13:56:22.662] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 11, 2022 14:38:45.864 [63528:61760:1111/143845.864:ERROR:device_event_log_impl.cc(215)] [14:38:45.863] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 11, 2022 14:38:45.865 [63528:61760:1111/143845.864:ERROR:device_event_log_impl.cc(215)] [14:38:45.864] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 11, 2022 14:38:45.872 [63528:61760:1111/143845.872:ERROR:device_event_log_impl.cc(215)] [14:38:45.872] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 11, 2022 16:04:33.257 [47796:67196:1111/160433.256:ERROR:device_event_log_impl.cc(215)] [16:04:33.255] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 11, 2022 16:04:33.258 [47796:67196:1111/160433.256:ERROR:device_event_log_impl.cc(215)] [16:04:33.256] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 11, 2022 16:04:33.265 [47796:67196:1111/160433.264:ERROR:device_event_log_impl.cc(215)] [16:04:33.264] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 11, 2022 16:23:57.492 [47796:62068:1111/162357.491:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 11, 2022 16:24:33.339 [47796:62068:1111/162433.338:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 11, 2022 16:25:31.120 [47796:62068:1111/162531.119:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 11, 2022 16:27:17.257 [47796:62068:1111/162717.257:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 11, 2022 16:29:27.670 [49768:47028:1111/162927.670:ERROR:device_event_log_impl.cc(215)] [16:29:27.669] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 11, 2022 16:29:27.678 [49768:47028:1111/162927.677:ERROR:device_event_log_impl.cc(215)] [16:29:27.677] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 11, 2022 16:29:27.685 [49768:47028:1111/162927.684:ERROR:device_event_log_impl.cc(215)] [16:29:27.684] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 11, 2022 16:29:27.773 [49768:55220:1111/162927.773:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -106
+Nov 11, 2022 17:35:39.215 [49932:69088:1111/173539.213:ERROR:device_event_log_impl.cc(215)] [17:35:39.212] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 11, 2022 17:35:39.237 [49932:69088:1111/173539.235:ERROR:device_event_log_impl.cc(215)] [17:35:39.235] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 11, 2022 17:35:39.245 [49932:69088:1111/173539.244:ERROR:device_event_log_impl.cc(215)] [17:35:39.244] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 11, 2022 19:45:22.453 [71672:70928:1111/194522.452:ERROR:assistance_home_client.cc(32)] File path C:\Users\vanap\AppData\Local\Microsoft\Edge\User Data\Default
+Nov 11, 2022 19:45:26.251 [71672:70928:1111/194526.251:ERROR:device_event_log_impl.cc(215)] [19:45:26.247] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 11, 2022 19:45:26.254 [71672:70928:1111/194526.253:ERROR:device_event_log_impl.cc(215)] [19:45:26.253] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 11, 2022 19:45:26.262 [71672:70928:1111/194526.260:ERROR:device_event_log_impl.cc(215)] [19:45:26.260] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 11, 2022 19:45:26.452 [71672:70928:1111/194526.452:ERROR:secondary_tile_client.cc(215)] OnSecondaryTileManagerDisconnected. Sending error response to callbacks
+Nov 11, 2022 19:45:26.607 [71672:70928:1111/194526.607:ERROR:secondary_tile_client.cc(215)] OnSecondaryTileManagerDisconnected. Sending error response to callbacks
+Nov 11, 2022 19:46:22.844 [71672:31704:1111/194622.844:ERROR:util.cc(135)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+Nov 11, 2022 20:29:28.497 [71672:70928:1111/202928.495:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Nov 11, 2022 21:04:11.145 [49932:67540:1111/210411.140:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+Nov 11, 2022 22:08:04.853 [49932:67540:1111/220804.850:ERROR:connection_factory_impl.cc(426)] Failed to connect to MCS endpoint with error -105
+
+Nov 12, 2022 09:11:17.979 NEW SESSION
+Nov 12, 2022 09:11:17.980 [43696:59524:1112/091117.975:ERROR:assistance_home_client.cc(32)] File path C:\Users\vanap\AppData\Local\Microsoft\Edge\User Data\Default
+Nov 12, 2022 09:11:23.707 [43696:59524:1112/091123.706:ERROR:device_event_log_impl.cc(215)] [09:11:23.702] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 12, 2022 09:11:23.709 [43696:59524:1112/091123.707:ERROR:device_event_log_impl.cc(215)] [09:11:23.708] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 12, 2022 09:11:23.716 [43696:59524:1112/091123.715:ERROR:device_event_log_impl.cc(215)] [09:11:23.716] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 12, 2022 09:11:23.958 [43696:59524:1112/091123.958:ERROR:secondary_tile_client.cc(215)] OnSecondaryTileManagerDisconnected. Sending error response to callbacks
+Nov 12, 2022 09:11:24.728 [43696:59524:1112/091124.728:ERROR:secondary_tile_client.cc(215)] OnSecondaryTileManagerDisconnected. Sending error response to callbacks
+
+Nov 21, 2022 12:44:39.396 NEW SESSION
+Nov 21, 2022 12:44:39.397 [49568:49612:1121/124439.393:ERROR:assistance_home_client.cc(32)] File path C:\Users\vanap\AppData\Local\Microsoft\Edge\User Data\Default
+Nov 21, 2022 12:44:45.120 [49568:49612:1121/124445.120:ERROR:device_event_log_impl.cc(215)] [12:44:45.125] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 21, 2022 12:44:45.120 [49568:49612:1121/124445.120:ERROR:device_event_log_impl.cc(215)] [12:44:45.128] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 21, 2022 12:44:45.120 [49568:49612:1121/124445.120:ERROR:device_event_log_impl.cc(215)] [12:44:45.128] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Nov 21, 2022 12:44:45.261 [49568:49612:1121/124445.261:ERROR:secondary_tile_client.cc(215)] OnSecondaryTileManagerDisconnected. Sending error response to callbacks
+Nov 21, 2022 12:44:45.419 [49568:49612:1121/124445.419:ERROR:secondary_tile_client.cc(215)] OnSecondaryTileManagerDisconnected. Sending error response to callbacks
+Nov 21, 2022 12:45:40.11 [49568:54172:1121/124540.011:ERROR:util.cc(135)] Can't create base directory: C:\Program Files\Microsoft\EdgeUpdater
+Nov 21, 2022 12:49:41.01 [49568:49612:1121/124941.001:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Nov 21, 2022 12:49:41.341 [49568:49612:1121/124941.341:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.

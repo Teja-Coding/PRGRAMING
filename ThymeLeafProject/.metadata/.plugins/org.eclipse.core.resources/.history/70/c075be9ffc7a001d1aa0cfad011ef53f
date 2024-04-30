@@ -1,0 +1,11 @@
+package com.example.demo;
+
+import org.springframework.ui.Model;
+
+public class Controller {
+	public String hello(Model model) {
+		model.addAttribute("mess", "helloworld");
+		return "hello";
+		
+	}
+}

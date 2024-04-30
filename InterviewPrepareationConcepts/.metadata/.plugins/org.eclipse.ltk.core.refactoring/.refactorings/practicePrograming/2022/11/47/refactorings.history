@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Div.java&apos; to &apos;StandardInterviewPrograms/src/StandardPrograms&apos;&#x0D;&#x0A;- Original project: &apos;practicePrograming&apos;&#x0D;&#x0A;- Destination element: &apos;StandardInterviewPrograms/src/StandardPrograms&apos;&#x0D;&#x0A;- Original element: &apos;practicePrograming.Standard.Div.java&apos;" description="Copy compilation unit" destination="=StandardInterviewPrograms/src&lt;StandardPrograms" element1="/src&lt;practicePrograming.Standard{Div.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1668875374108" units="1" version="1.0"/>
+</session>

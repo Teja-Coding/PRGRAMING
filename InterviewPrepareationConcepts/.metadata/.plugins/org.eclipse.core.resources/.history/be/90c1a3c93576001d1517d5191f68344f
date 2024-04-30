@@ -1,0 +1,21 @@
+package StandardPrograms;
+
+import java.util.Scanner;
+
+public class Div {
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		System.out.print("enter the interger");
+		int input=sc.nextInt();
+		System.out.println("enter the interger");
+		int input2=sc.nextInt();
+		
+		
+		if(input%2!=0) {
+			System.out.println("odd");
+		}
+		else if(input2%2==0) {
+			System.out.println("even");
+		}
+	}
+}

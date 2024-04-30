@@ -1,0 +1,13 @@
+package patternProgramsInterview;
+
+public class SandGlass {
+		public static void main(String[] args) {
+			int star=9;
+			int space=0;
+			for(int a=1;a<=9;a++) {
+				for(int i=1;i<=space;i++) {
+					System.out.println(" ");
+				}
+			}
+		}
+}

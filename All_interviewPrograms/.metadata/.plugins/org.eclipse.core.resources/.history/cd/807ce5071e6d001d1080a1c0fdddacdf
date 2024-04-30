@@ -1,0 +1,26 @@
+package Pratice;
+
+import java.util.Scanner;
+
+public class programe {
+	public static void main(String[] args) {
+		int []x= {1,2,3,4,5,6};
+		int highest=x[0];
+		
+		for(int z:x) {
+			if(z>highest) {
+				highest=z;
+			}
+		}
+		System.out.println("highest "+highest);
+		int low=x[0];
+		for(int z:x) {
+			if(z<low) {
+				low=z;
+			}
+		}
+		System.out.println("low "+low);
+	}
+	
+}
+

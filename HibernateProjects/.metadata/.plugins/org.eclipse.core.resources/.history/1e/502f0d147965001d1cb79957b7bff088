@@ -1,0 +1,19 @@
+package org.jsp.app;
+
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+public class JpaTemplate {
+	
+	public static void main(String[] args) {
+		
+	
+     //jpa template
+	// establish connection by using program
+	
+	EntityManagerFactory factory=Persistence.createEntityManagerFactory("FirstProject");
+	System.out.println("connection established.....");
+	
+	}
+	
+}
